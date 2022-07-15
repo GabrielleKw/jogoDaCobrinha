@@ -1,6 +1,6 @@
 # Quer Joga? Clica no Pc
 
-<a href="https://gabriellekw.github.io/JogoMemoriaCat/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3271/3271109.png" alt="gabekw.jgmemoriacat" height="40" width="40" /></a>
+<a href="https://gabriellekw.github.io/jogoDaCobrinha/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3271/3271109.png" alt="gabekw.jgmemoriacat" height="40" width="40" /></a>
 </p>
 
 # Recriando o jogo da cobrinha com JavaScript
